@@ -2,7 +2,7 @@
 - **Author:** Parris Trimingham
 
 # Business problem:
-Here is where you state the business problem you were trying to solve
+There are many fcotrs that can promote the sales of outlet items. We can analyze the past, to predict the future. Will history repeat itself?
 
 # Data:
 Data can include source and high-level description (e.g. # obs)
