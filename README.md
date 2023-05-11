@@ -32,7 +32,7 @@ The top five highest item sales are as follows:
 - Dairy
 
 # Recommendations:
-It is my professional recommendation that we factor weight into the sales. It appears that customers really do factor in the weights of items into their purchasing. While Fruits and Vegatables are cleary the best seller, even this is limited to the weight of the items.
+By using the Decision Tree with the R Squared (R2), the score came to a 1.0. We can utilize that to make future predictions. And then ,we can focus on Item Sales.
 
 # For further information
 For any additional questions, please contact parrisatwork@gmail.com.
